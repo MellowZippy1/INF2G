@@ -1,0 +1,1 @@
+Network hardware consists of devices used to send, receive and duplicate messages. Cables/medium over which the messages are sent, and the devices that connect the hosts, and are used to find the route to destinations.

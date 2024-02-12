@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "d054e6465e597e3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a705309e48a8b61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce6de7766456289e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware/Gateways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7516a5c56f2f5595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocols/TCP-IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a395d591da162e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "b581b5dbc250327d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044d18dec5b3b341",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de2333d8620d181d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54d9ec5d9348f34d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "de76cc73bd9e3cfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcbf4a279a796813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208d774f1e4f166c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Protocols/TCP-IP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82858b12032c8f4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Protocols/TCP-IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d8f101c70ee639e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed4411cee2c10feb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Protocols/TCP-IP.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7516a5c56f2f5595",
+  "lastOpenFiles": [
+    "Protocols/OSI/Layers/01 Physical.md",
+    "❗Overview.md",
+    "Protocols/OSI/Layers/PDU.md",
+    "Protocols/OSI/Layers/07 Application.md",
+    "Protocols/OSI/Layers/04 Transport.md",
+    "Protocols/OSI/Layers/03 Network.md",
+    "Protocols/OSI/Layers/02 Data Link.md",
+    "Software/Ping.md",
+    "Hardware/Gateways.md",
+    "Hardware/Hosts.md",
+    "Hardware/Switches.md",
+    "Hardware/Routers.md",
+    "Protocols/OSI/Layers/06 Presentation.md",
+    "Protocols/OSI/Layers/05 Session.md",
+    "().md",
+    "Network Topologies/Point-to-Point.md",
+    "Physical Layer.md",
+    "Protocols/OSI/❗Overview.md",
+    "Protocols/❗Overview.md",
+    "Protocols/OSI/Layers",
+    "Network Topologies/Broadcasting.md",
+    "Protocols/OSI",
+    "Network Topologies/❗Overview.md",
+    "Hardware/❗Overview.md",
+    "Communication/Transmission.md",
+    "Hardware",
+    "Protocols/TCP-IP.md",
+    "Protocols/ICMP.md",
+    "Protocols",
+    "Software",
+    "Communication/Waves.md",
+    "Communication/Untitled",
+    "Communication",
+    "Network Topologies",
+    "Protocols",
+    "Communications",
+    "Media/Images/Pasted image 20240211132848.png",
+    "wave2.jpg",
+    "wave.jpg"
+  ]
+}

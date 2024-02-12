@@ -1,0 +1,1 @@
+A gateway of a source network receives messages and forwards them to a point-to-point network towards the *destination* network.

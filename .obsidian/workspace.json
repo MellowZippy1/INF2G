@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "ebd300c2dcfd68ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c4a68c9e3d9446",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c12d46968ec510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Algorithms/Search Algorithms/Sequential Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c826c576dee3f5fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "455287ae838ba415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88adb34b9e7d70e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "244290e1b78b9c2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff8cdec7fb6b6bc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e88827d48467ef75",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d85da0360b8d53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198377a90b3c047f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Development/Algorithms/Search Algorithms/Sequential Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6d69f43686219cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Development/Algorithms/Search Algorithms/Sequential Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1d410005ed1a04e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f501884db343653",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Development/Algorithms/Search Algorithms/Sequential Search.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "38c12d46968ec510",
+  "lastOpenFiles": [
+    "Development/Algorithms/Search Algorithms/Binary Search.md",
+    "Development/Algorithms/Search Algorithms/Sequential Search.md",
+    "Development/Algorithms/Sorting Algorithms/Bubble Sort.md",
+    "Pasted image 20240212132332.png",
+    "Development/Algorithms/Data Structures/Arrays.md",
+    "Development/Algorithms/Sorting Algorithms/Insertion Sort.md",
+    "Development/Algorithms/Sorting Algorithms/Merge Sort.md",
+    "Development/Algorithms/Search Algorithms",
+    "Development/Algorithms/Sorting Algorithms",
+    "Development/temp_networking/Network/Protocols/Protocols.md",
+    "Development/temp_networking/Network/Protocols/OSI Model.md",
+    "Development/temp_networking/Network/Protocols/PDU.md",
+    "Analyse/Networking/Protocols/OSI/Layers/PDU.md",
+    "Analyse/Networking/Protocols/OSI/Layers/Untitled.md",
+    "Development/temp_networking/Network/Layers/Physical Layer.md",
+    "Development/temp_networking/How to Succeed.md",
+    "Analyse/Networking/❗Overview.md",
+    "Analyse/Networking/Overview.md",
+    "Analyse/Networking/Untitled.md",
+    "Development/temp_networking/Network/Components.md",
+    "Analyse/Networking/().md",
+    "Analyse/Networking/Physical Layer.md",
+    "Analyse/Networking/Protocols/OSI/❗Overview.md",
+    "Analyse/Networking/Protocols/OSI/Layers/07 Application.md",
+    "Analyse/Networking/Protocols/OSI/Layers/06 Presentation.md",
+    "Analyse/Networking/Protocols/OSI/Layers/05 Session.md",
+    "Analyse/Networking/Protocols/OSI/Layers/04 Transport.md",
+    "Analyse/Networking/Protocols/OSI/Layers/03 Network.md",
+    "Analyse/Networking/Protocols/OSI/Layers",
+    "Analyse/Networking/Protocols/OSI/Untitled",
+    "Analyse/Networking/Protocols/OSI",
+    "Analyse/Networking/Protocols/Untitled",
+    "Analyse/Networking/Hardware",
+    "Analyse/Networking/Untitled",
+    "Analyse/Networking/Protocols",
+    "Analyse/Networking/Software"
+  ]
+}
