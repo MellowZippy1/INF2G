@@ -1,0 +1,1 @@
+Basic Service Set (BSS) networks use a specific station called "Access Point". All [transmissions](Transmission) from a station to another station are through the Access Point.  The Access Point also connects the network (BSS) to other networks, hence the internet.

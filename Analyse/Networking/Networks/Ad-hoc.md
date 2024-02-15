@@ -1,0 +1,1 @@
+Ad-hoc networks do not have any central node (access point). Every station (device) can send data to every other station directly.

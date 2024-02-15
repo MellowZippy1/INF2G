@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5a705309e48a8b61",
+        "id": "d0dcae78faaa226b",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6de7766456289e",
+            "id": "937b6fbf8fe2cac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/Gateways.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7516a5c56f2f5595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocols/TCP-IP.md",
+                "file": "Protocols/OSI/Layers/PDU.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/TCP-IP.md",
+                "file": "Protocols/OSI/Layers/PDU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/TCP-IP.md",
+                "file": "Protocols/OSI/Layers/PDU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/TCP-IP.md"
+                "file": "Protocols/OSI/Layers/PDU.md"
               }
             }
           }
@@ -160,44 +147,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7516a5c56f2f5595",
+  "active": "937b6fbf8fe2cac6",
   "lastOpenFiles": [
     "Protocols/OSI/Layers/01 Physical.md",
+    "Hardware/Gateways.md",
+    "Networks/Ad-hoc.md",
+    "Networks/AD-HOC.md",
+    "Networks/AD-HOC Networks.md",
+    "Networks/Untitled.md",
+    "Networks/BSS.md",
+    "Networks/Wireless.md",
+    "Networks",
+    "Untitled",
+    "Communication/Wireless.md",
+    "Communication/Untitled.md",
+    "Protocols/OSI/Layers/02 Data Link.md",
+    "Protocols/Ethernet.md",
+    "02 Data Layer.md",
+    "Hardware/Hosts.md",
+    "Hardware/Switches.md",
+    "Hardware/Routers.md",
+    "Network Topologies/Broadcasting.md",
+    "Pasted image 20240212145513.png",
+    "Pasted image 20240212145416.png",
+    "Pasted image 20240212145448.png",
+    "Communication/Transmission.md",
+    "Protocols/TCP-IP.md",
     "❗Overview.md",
     "Protocols/OSI/Layers/PDU.md",
     "Protocols/OSI/Layers/07 Application.md",
     "Protocols/OSI/Layers/04 Transport.md",
     "Protocols/OSI/Layers/03 Network.md",
-    "Protocols/OSI/Layers/02 Data Link.md",
     "Software/Ping.md",
-    "Hardware/Gateways.md",
-    "Hardware/Hosts.md",
-    "Hardware/Switches.md",
-    "Hardware/Routers.md",
     "Protocols/OSI/Layers/06 Presentation.md",
-    "Protocols/OSI/Layers/05 Session.md",
-    "().md",
-    "Network Topologies/Point-to-Point.md",
-    "Physical Layer.md",
-    "Protocols/OSI/❗Overview.md",
-    "Protocols/❗Overview.md",
     "Protocols/OSI/Layers",
-    "Network Topologies/Broadcasting.md",
     "Protocols/OSI",
-    "Network Topologies/❗Overview.md",
-    "Hardware/❗Overview.md",
-    "Communication/Transmission.md",
     "Hardware",
-    "Protocols/TCP-IP.md",
-    "Protocols/ICMP.md",
     "Protocols",
     "Software",
-    "Communication/Waves.md",
     "Communication/Untitled",
     "Communication",
     "Network Topologies",
-    "Protocols",
-    "Communications",
     "Media/Images/Pasted image 20240211132848.png",
     "wave2.jpg",
     "wave.jpg"

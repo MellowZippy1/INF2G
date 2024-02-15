@@ -12,3 +12,7 @@ Adding data to a [carrier](Waves#Carrier%20Wave) is called modulation. Data can 
 > [!info]
 > Data can be either analog or digital. Analog data are continuous and take continuous values whereas digital data has discrete states and take discrete values.
 
+# Frequency vs Amplitude
+
+A higher frequency means a faster in speed but shorter in duration signal and a higher amplitude means a slower speed but a longer distance signal.
+

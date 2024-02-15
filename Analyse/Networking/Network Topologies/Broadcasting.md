@@ -1,3 +1,8 @@
+---
+tags:
+  - wireless
+  - network
+---
 In broadcasts networks, a message is sent to everyone (hosts) in the network.
 - Only the intended recipient(s) reads it.
 - Every other host will ignore the message.

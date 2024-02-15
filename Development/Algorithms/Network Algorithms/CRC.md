@@ -1,0 +1,1 @@
+Cyclic Redundancy Check (CRC) is fucking complicated man wtf
